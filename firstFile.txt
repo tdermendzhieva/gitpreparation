@@ -8,3 +8,5 @@ GIT is my favourite version control system
 
 
 Line added from master branch
+
+Line added from another developr
