@@ -4,6 +4,8 @@ Line added in commit 2
 
 Line added in commit 3
 
+make some mess with commit 6
+
 Line added in commit 4 
 
 Line added in commit 6
