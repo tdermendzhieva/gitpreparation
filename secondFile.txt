@@ -5,4 +5,8 @@ Fun ah :)
 This file will be used as recipe book
 
 Some really imporatnt bug is fixed here
+<<<<<<< HEAD
 I will add songs here
+=======
+
+>>>>>>> 73b4e00... Fixing major bug
