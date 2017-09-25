@@ -3,3 +3,7 @@ Line added in commit 1
 Line added in commit 2
 
 Line added in commit 3
+
+Line added in commit 4 
+
+Line added in commit 6
